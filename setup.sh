@@ -8,4 +8,8 @@ echo $A
 
 touch example.txt
 
+echo "HELLO WORLD" > example.txt
+
+cat example.txt
+
 ls

@@ -9,4 +9,3 @@ echo $A
 touch example.txt
 
 
-ls

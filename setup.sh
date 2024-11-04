@@ -4,7 +4,7 @@ sudo ls
 
 set A = "HELLO WORLD"
 
-echo ${A}
+echo $A
 
 touch example.txt
 

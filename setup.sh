@@ -8,7 +8,7 @@ echo $A
 
 touch example.txt
 
-echo "HELLO WORLD" > example.txt
+echo "TEST MY JENKINSSS" > example.txt
 
 cat example.txt
 

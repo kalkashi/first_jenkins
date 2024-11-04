@@ -1,6 +1,6 @@
 !# /bin/bash
 
-ls
+sudo ls
 
 touch example.txt
 

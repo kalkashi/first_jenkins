@@ -9,6 +9,4 @@ echo ${A}
 touch example.txt
 
 
-cat example.txt
-
 ls
